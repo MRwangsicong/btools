@@ -6,7 +6,7 @@
   * [🌟 平台概览](btools/01-introduction/01-overview.md)
   * [🚀 快速开始](btools/01-introduction/02-getting-started.md)
   * [🔒 安全须知](btools/01-introduction/03-security-tips.md)
-* [02-features](02-features/README.md)
+* [⚙️ 功能中心](02-features/README.md)
   * [⚙️ 功能总览](btools/02-features/01-features-overview.md)
   * [🗺️ 模块导航](btools/02-features/02-navigation.md)
 * [03-wallet](03-wallet/README.md)
